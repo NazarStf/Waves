@@ -11,6 +11,8 @@
 		7469C5322A756BDD005EB8B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C5312A756BDD005EB8B7 /* ContentView.swift */; };
 		7469C5342A756BDE005EB8B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7469C5332A756BDE005EB8B7 /* Assets.xcassets */; };
 		7469C5372A756BDE005EB8B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7469C5362A756BDE005EB8B7 /* Preview Assets.xcassets */; };
+		7469C53E2A756C6F005EB8B7 /* buoyBells.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */; };
+		7469C5402A756DB1005EB8B7 /* WaveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C53F2A756DB1005EB8B7 /* WaveView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		7469C5312A756BDD005EB8B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7469C5332A756BDE005EB8B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7469C5362A756BDE005EB8B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = buoyBells.m4a; sourceTree = "<group>"; };
+		7469C53F2A756DB1005EB8B7 /* WaveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +57,9 @@
 			children = (
 				7469C52F2A756BDD005EB8B7 /* WavesApp.swift */,
 				7469C5312A756BDD005EB8B7 /* ContentView.swift */,
+				7469C53F2A756DB1005EB8B7 /* WaveView.swift */,
 				7469C5332A756BDE005EB8B7 /* Assets.xcassets */,
+				7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */,
 				7469C5352A756BDE005EB8B7 /* Preview Content */,
 			);
 			path = Waves;
@@ -127,6 +133,7 @@
 			files = (
 				7469C5372A756BDE005EB8B7 /* Preview Assets.xcassets in Resources */,
 				7469C5342A756BDE005EB8B7 /* Assets.xcassets in Resources */,
+				7469C53E2A756C6F005EB8B7 /* buoyBells.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7469C5322A756BDD005EB8B7 /* ContentView.swift in Sources */,
+				7469C5402A756DB1005EB8B7 /* WaveView.swift in Sources */,
 				7469C5302A756BDD005EB8B7 /* WavesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
