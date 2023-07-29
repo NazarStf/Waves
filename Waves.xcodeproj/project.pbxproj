@@ -14,6 +14,7 @@
 		7469C53E2A756C6F005EB8B7 /* buoyBells.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */; };
 		7469C5402A756DB1005EB8B7 /* WaveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C53F2A756DB1005EB8B7 /* WaveView.swift */; };
 		7469C5422A756FF5005EB8B7 /* PlaySound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C5412A756FF5005EB8B7 /* PlaySound.swift */; };
+		7469C5442A757066005EB8B7 /* BuoyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C5432A757066005EB8B7 /* BuoyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = buoyBells.m4a; sourceTree = "<group>"; };
 		7469C53F2A756DB1005EB8B7 /* WaveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveView.swift; sourceTree = "<group>"; };
 		7469C5412A756FF5005EB8B7 /* PlaySound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+		7469C5432A757066005EB8B7 /* BuoyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuoyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7469C52F2A756BDD005EB8B7 /* WavesApp.swift */,
 				7469C5312A756BDD005EB8B7 /* ContentView.swift */,
 				7469C53F2A756DB1005EB8B7 /* WaveView.swift */,
+				7469C5432A757066005EB8B7 /* BuoyView.swift */,
 				7469C5412A756FF5005EB8B7 /* PlaySound.swift */,
 				7469C5332A756BDE005EB8B7 /* Assets.xcassets */,
 				7469C53D2A756C6F005EB8B7 /* buoyBells.m4a */,
@@ -150,6 +153,7 @@
 				7469C5322A756BDD005EB8B7 /* ContentView.swift in Sources */,
 				7469C5422A756FF5005EB8B7 /* PlaySound.swift in Sources */,
 				7469C5402A756DB1005EB8B7 /* WaveView.swift in Sources */,
+				7469C5442A757066005EB8B7 /* BuoyView.swift in Sources */,
 				7469C5302A756BDD005EB8B7 /* WavesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
